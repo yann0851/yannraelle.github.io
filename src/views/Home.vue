@@ -7,7 +7,7 @@
           <div class="container">
             <div class="row">
               <div class="col ">
-                <img class="img-fluid rounded-circle" src="http://localhost:8080/pp.png">
+                <img class="img-fluid rounded-circle" src="public\pp.png">
               </div>
               <div class="col-8">
                 <div class="row">
