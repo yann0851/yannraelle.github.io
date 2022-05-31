@@ -20,7 +20,7 @@
         <div class="row">
             <div class="col d-flex justify-content-center">
                 <div class="card text-center" style="width: 75%; background: #3d3d3d;">
-                    <img src="http://localhost:8080/cder.jpg" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                    <img src="cder.jpg" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                     <div class="card-body">
                         <h2 class="card-title" style="color: white;">CDER</h2>
                         <p style="color: white;">
@@ -33,7 +33,7 @@
             </div>
             <div class="col d-flex justify-content-center">
                 <div class="card text-center" style="width: 75%; background: #3d3d3d;">
-                    <img src="http://localhost:8080/adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                    <img src="adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                     <div class="card-body">
                         <h2 class="card-title" style="color: white;">ADM Bazancourt</h2>
                         <p class="card-text" style="color: white;">
@@ -65,7 +65,7 @@ I have been doing my summer jobs at adm for 3 now. These allowed me to gain self
     <div class=" d-flex container mt-5">
         <div class="justify-content-center" style="padding: 10px;">
             <div class="card text-center" style="background: #3d3d3d;">
-                <img src="http://localhost:8080/cder.jpg" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                <img src="cder.jpg" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                 <div class="card-body">
                     <h2 class="card-title" style="color: white;">Information System</h2>
                     <p  class="card-text" style="color: white;">
@@ -78,7 +78,7 @@ I have been doing my summer jobs at adm for 3 now. These allowed me to gain self
         </div>
         <div class="justify-content-center" style="padding: 10px;">
             <div class="card text-center" style="background: #3d3d3d;">
-                <img src="http://localhost:8080/adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                <img src="adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                 <div class="card-body">
                     <h2 class="card-title" style="color: white;">System programming</h2>
                     <p class="card-text" style="color: white;">
@@ -91,7 +91,7 @@ I have been doing my summer jobs at adm for 3 now. These allowed me to gain self
         </div>
         <div class="justify-content-center" style="padding: 10px;">
             <div class="card text-center" style="background: #3d3d3d;">
-                <img src="http://localhost:8080/adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                <img src="adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                 <div class="card-body">
                     <h2 class="card-title" style="color: white;">ADM Bazancourt</h2>
                     <p class="card-text" style="color: white;">
@@ -104,7 +104,7 @@ I have been doing my summer jobs at adm for 3 now. These allowed me to gain self
         </div>
         <div class="justify-content-center" style="padding: 10px;">
             <div class="card text-center" style="background: #3d3d3d;">
-                <img src="http://localhost:8080/adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                <img src="adm.png" style="padding: 10px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                 <div class="card-body">
                     <h2 class="card-title" style="color: white;">ADM Bazancourt</h2>
                     <p class="card-text" style="color: white;">

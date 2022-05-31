@@ -11,7 +11,7 @@
                   </h5>
               </div>
               <div class="col-8">
-                  <img class="img-fluid" src="http://localhost:8080/cder.jpg">
+                  <img class="img-fluid" src="cder.jpg">
               </div>
           </div>
           <div class="row mt-3 border-top">
@@ -27,13 +27,13 @@
                   </div>
                   <div class="row mt-3">
                       <div class="col align-middle">
-                          <img class="mt-5 img-fluid" src="http://localhost:8080/sp-hex-net.png">
+                          <img class="mt-5 img-fluid" src="sp-hex-net.png">
                       </div>
                       <div class="col">
-                          <img class="img-fluid" src="http://localhost:8080/Csharp.png">
+                          <img class="img-fluid" src="Csharp.png">
                       </div>
                       <div class="col mt-4">
-                          <img class="mt-5 img-fluid" src="http://localhost:8080/telerik.png">
+                          <img class="mt-5 img-fluid" src="telerik.png">
                       </div>
                   </div>
               </div>
@@ -51,13 +51,13 @@
                   </div>
                   <div class="row mt-3">
                       <div class="col align-middle">
-                          <img class=" img-fluid" src="http://localhost:8080/Logo-Vuejs.png">
+                          <img class=" img-fluid" src="Logo-Vuejs.png">
                       </div>
                       <div class="col">
-                          <img class="img-fluid" src="http://localhost:8080/Node.js.png">
+                          <img class="img-fluid" src="Node.js.png">
                       </div>
                       <div class="col">
-                          <img class="mt-5 img-fluid" src="http://localhost:8080/MongoDB.png">
+                          <img class="mt-5 img-fluid" src="MongoDB.png">
                       </div>
                   </div>
               </div>

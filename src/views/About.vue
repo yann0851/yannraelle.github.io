@@ -23,7 +23,7 @@
             <div class="col"></div>
             <div class="col-6">
               <button type="button" class="btn-lg" style="background: #41B883;">
-                <a href="http://localhost:8080/CVYannA3English.pdf" target="_blank" style="color: black;"  class="font-weight-bold">Click here to view the PDF file 📄</a>
+                <a href="CVYannA3English.pdf" target="_blank" style="color: black;"  class="font-weight-bold">Click here to view the PDF file 📄</a>
               </button>
             </div>
             <div class="col"></div>
@@ -31,7 +31,7 @@
           </div>
         </div>
         <div class="col-5">
-          <img class="img-fluid" src="http://localhost:8080/pp.png">
+          <img class="img-fluid" src="pp.png">
         </div>
       </div>
       <div class="mt-3 row border-top">

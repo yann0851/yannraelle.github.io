@@ -41,7 +41,7 @@
       <div id="carouselProject1" class="mt-5 carousel slide shadow h-100" data-bs-ride="carousel" data-bs-touch="true">
         <div class="carousel-inner h-100 rounded">
             <div class="carousel-item h-100 active" data-bs-interval="5000">
-                <img src="http://localhost:8080/cder.jpg"
+                <img src="cder.jpg"
                       class="d-block w-100" alt="Image slide 1">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>CDER</h5>
@@ -49,20 +49,11 @@
                 </div>
             </div>
             <div class="carousel-item h-100" data-bs-interval="5000">
-                <img src="http://localhost:8080/adm.png"
+                <img src="adm.png"
                       class="d-block w-100" alt="Image slide 2">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>ADM Bazancourt</h5>
                     <p>This were I work all summer since I have 18.</p>
-                </div>
-            </div>
-            <div class="carousel-item h-100" data-bs-interval="5000">
-                <img src="https://picsum.photos/1920/1080?random=3"
-                      class="d-block w-100" alt="Image slide 3">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>Slide 3</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-                        sollicitudin.</p>
                 </div>
             </div>
         </div>

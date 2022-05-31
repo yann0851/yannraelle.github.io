@@ -6,7 +6,7 @@
           </div>
           <div class="row mt-3">
               <div class="col-7">
-                  <img class="img-fluid" src="http://localhost:8080/adm.png">
+                  <img class="img-fluid" src="adm.png">
               </div>
               <div class="col-5">
                   <h3 class="font-weight-light" style="color:white;">
@@ -23,7 +23,7 @@
                       <div class="row">
                         <div class="col"></div>
                         <div class="col-8">
-                            <img class="align-middle img-fluid" src="http://localhost:8080/glucose.png">
+                            <img class="align-middle img-fluid" src="glucose.png">
                         </div>
                         <div class="col"></div>
                       </div>
@@ -44,7 +44,7 @@
                       <div class="row">
                         <div class="col"></div>
                         <div class="col-6">
-                            <img class="align-middle img-fluid" src="http://localhost:8080/nettoyage.jpg">
+                            <img class="align-middle img-fluid" src="nettoyage.jpg">
                         </div>
                         <div class="col"></div>
                       </div>
@@ -66,7 +66,7 @@
                       <div class="row">
                         <div class="col"></div>
                         <div class="col-6">
-                            <img class="align-middle img-fluid" src="http://localhost:8080/blé.jpg">
+                            <img class="align-middle img-fluid" src="blé.jpg">
                         </div>
                         <div class="col"></div>
                       </div>
