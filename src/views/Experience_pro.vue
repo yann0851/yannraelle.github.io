@@ -37,8 +37,7 @@
                     <div class="card-body">
                         <h2 class="card-title" style="color: white;">ADM Bazancourt</h2>
                         <p class="card-text" style="color: white;">
-                            
-I have been doing my summer jobs at adm for 3 now. These allowed me to gain self-confidence and to increase my skills enormously. Click for more information.
+                            I have been doing my summer jobs at adm for 3 now. These allowed me to gain self-confidence and to increase my skills enormously. Click for more information.
                         </p>
                         <router-link class="btn" style="background: #41B883; color: white;" to="/adm">More Information</router-link>
                     </div>
