@@ -2,7 +2,7 @@
   <div class="main">
     <div class="container">
       <div class="row">
-        <h2 style="color: white;">A propos de moi</h2>
+        <h2 style="color: white;">About me</h2>
       </div>
       <div class="row">
         <div class="col">
@@ -38,7 +38,7 @@
         <div class="mt-3 container">
           <div class="row">
             <h2 style="color:white;">
-              Mes compétences
+              My skills
             </h2>
           </div>
           <div class="mt-4 row">
