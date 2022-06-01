@@ -80,8 +80,5 @@ export default {
 
 <style>
 
-nav {
-
-}
 
 </style>
