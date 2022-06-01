@@ -11,7 +11,7 @@
               </div>
               <div class="col-8">
                 <div class="row">
-                  <h1 style="color: white;" >Welcome to my portfolio! test</h1>
+                  <h1 style="color: white;" >Welcome to my portfolio!</h1>
                 </div>
                 <div>
                   <h3 class="fluid" style="color: white;" :title="{test}">{{ test }}</h3>
