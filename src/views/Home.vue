@@ -71,8 +71,8 @@ export default {
   },
   data(){
     return{
-      test : "Bonjour ! Bienvenue sur mon portfolio, je m'appel Yann, je suis actuellement étudiant en école d'ingénieur au Campus CESI de Reims. Ce site est un peu mon petit coin personnel, il ressence mes expérience, compétence, ainsi qu'une page personnelle pour apprendre à mieux connaitre ma personnelité. Si tu veux en savoir plus sur moi, clique sur about dans la barre de navigation.",
-      carroussel : "Tu peux retrouver ici les chose les plus récentes que j'ai fait !"
+      test : "Good morning ! Welcome to my portfolio, my name is Yann, I am currently an engineering school student at the CESI Campus in Reims. This site is a bit like my little personal corner, it reflects my experience, my skills, as well as a personal page to get to know my personality better. If you want to know more about me, click on about in the navigation bar. (This site is still under development, so it is subject to many changes over time).",
+      carroussel : "You can find here last fings that I did !"
     }
   }
 }
