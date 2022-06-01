@@ -71,7 +71,7 @@ export default {
   },
   data(){
     return{
-      test : "Bonjour ! Bienvenue sur mon portfolio, je m'appel Yann, je suis actuellement étudiant en école d'ingénieur au Campus CESI de Reims. Ce site est un peu mon petit coin personnel, il ressence mes expérience, compétence, ainsi qu'une page personnelle pour apprendre à mieux connaitre ma personnelité. Si tu veux en savoir plus sur moi, clique sur /"/about/"/ dans la barre de navigation.",
+      test : "Bonjour ! Bienvenue sur mon portfolio, je m'appel Yann, je suis actuellement étudiant en école d'ingénieur au Campus CESI de Reims. Ce site est un peu mon petit coin personnel, il ressence mes expérience, compétence, ainsi qu'une page personnelle pour apprendre à mieux connaitre ma personnelité. Si tu veux en savoir plus sur moi, clique sur about dans la barre de navigation.",
       carroussel : "Tu peux retrouver ici les chose les plus récentes que j'ai fait !"
     }
   }
