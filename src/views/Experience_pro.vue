@@ -1,6 +1,140 @@
 <template>
   <div class="main">
     <div class="container">
+        <div class="mt-3 row border-top">
+            <div class="mt-3 container">
+            <div class="row">
+                <h2 style="color:white;">
+                My skills
+                </h2>
+            </div>
+            <div class="mt-4 row">
+                <div class="col">
+                <div class="container">
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">.NET</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">C#</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">XAML</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">C</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">Python</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+                        </div>
+                    </div>
+                    </div>
+                    
+                </div>
+                </div>
+                <div class="col">
+                <div class="container">
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">C++</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">CSS</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">HTML</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">Node JS</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-2">
+                        <p style="color:white;">Vue JS</p>
+                    </div>
+                    <div class="col">
+                        <div class="progress" style="height: 25px; width: 100%;">
+                        <div class="progress-bar" role="progressbar" style="background: #41B883; width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+            <p>
+
+            </p>
+            </div>
+            <p>
+                
+            </p>
+        </div>
         <div class="row mt-5">
             <div class="col-1"></div>
             <div class="col">
