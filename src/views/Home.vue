@@ -1,5 +1,6 @@
 <template>
   <div class="main">
+    
     <div class=" mb-5 container mt-5">
       <div class="row">
         <div class="col"></div>
@@ -79,6 +80,5 @@ export default {
 </script>
 
 <style>
-
 
 </style>
