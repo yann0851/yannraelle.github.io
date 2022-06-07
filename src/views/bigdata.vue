@@ -28,7 +28,7 @@
                       <div class="col"></div>
                   </div>
                   <div class="row mt-3">
-                      <p style="color: white;">Finally, we made recommendations in terms of integration tools, storage, and adapted visualization software as well as secure data mining to promote better decision making.</p>
+                      <p style="color: white;">Finally, we made recommendations in terms of integration tools, storage, and adapted visualization software as well as secure data mining to promote better decision making. </p>
                   </div>
                   <div class="row">
                       <div class="col"></div>
