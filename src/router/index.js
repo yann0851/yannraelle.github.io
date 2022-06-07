@@ -4,6 +4,7 @@ import About from '../views/About.vue'
 import Experience_pro from '../views/Experience_pro.vue'
 import Cder from '../views/cder.vue'
 import ADM from '../views/adm.vue'
+import BigData from '../views/bigdata.vue'
 
 const routes = [
   {
@@ -30,6 +31,11 @@ const routes = [
     path: '/adm',
     name: 'ADM',
     component: ADM
+  },
+  {
+    path: '/bigdata',
+    name: 'BigData',
+    component: BigData
   }
 ]
 

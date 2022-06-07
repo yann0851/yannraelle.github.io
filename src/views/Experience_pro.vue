@@ -20,7 +20,7 @@
         <div class="row">
             <div class="card-group">
                 <div class="card text-center" style="background: #3d3d3d;">
-                    <img src="infra.png" style="padding: 10px; height: 250px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
+                    <img src="job.jpg" style="padding: 10px; height: 250px;" class="card-img-top d-block w-100 rounded" alt="Image slide 1">
                     <div class="card-body">
                         <h3 class="card-title" style="color: white;">Big Data</h3>
                         <p  class="card-text" style="color: white;">
@@ -28,7 +28,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <router-link class="btn btn-danger" to="/about">More Information</router-link>
+                        <router-link class="btn btn-danger" to="/bigdata">More Information</router-link>
                     </div>
                 </div>
                 <div class="card text-center" style="background: #3d3d3d;">
