@@ -24,7 +24,7 @@
                     <div class="card-body">
                         <h3 class="card-title" style="color: white;">Big Data</h3>
                         <p  class="card-text" style="color: white;">
-                            J'ai eu la chance d'effectuer mes deux stage du CESI au CDER de Chalons en Champagne. 
+                            Exploitation of different data with talend, hadoop, hive Powerbi. 
                         </p>
                     </div>
                     <div class="card-footer">
@@ -36,8 +36,6 @@
                     <div class="card-body">
                         <h3 class="card-title" style="color: white;">Information System</h3>
                         <p  class="card-text" style="color: white;">
-                            J'ai eu la chance d'effectuer mes deux stage du CESI au CDER de Chalons en Champagne. Mon premier stage c'est déroulé lors de ma deuxième année au CESI, j'ai eu la 
-                            chance d'y rencontrer une super
                         </p>
                     </div>
                     <div class="card-footer">
@@ -49,8 +47,6 @@
                     <div class="card-body">
                         <h3 class="card-title" style="color: white;">Information System</h3>
                         <p  class="card-text" style="color: white;">
-                            J'ai eu la chance d'effectuer mes deux stage du CESI au CDER de Chalons en Champagne. Mon premier stage c'est déroulé lors de ma deuxième année au CESI, j'ai eu la 
-                            chance d'y rencontrer une super
                         </p>
                     </div>
                     <div class="card-footer">
@@ -62,8 +58,6 @@
                     <div class="card-body">
                         <h3 class="card-title" style="color: white;">Information System</h3>
                         <p  class="card-text" style="color: white;">
-                            J'ai eu la chance d'effectuer mes deux stage du CESI au CDER de Chalons en Champagne. Mon premier stage c'est déroulé lors de ma deuxième année au CESI, j'ai eu la 
-                            chance d'y rencontrer une super
                         </p>
                     </div>
                     <div class="card-footer">
@@ -77,8 +71,6 @@
                     <div class="card-body">
                         <h3 class="card-title" style="color: white;">Information System</h3>
                         <p  class="card-text" style="color: white;">
-                            J'ai eu la chance d'effectuer mes deux stage du CESI au CDER de Chalons en Champagne. Mon premier stage c'est déroulé lors de ma deuxième année au CESI, j'ai eu la 
-                            chance d'y rencontrer une super
                         </p>
                     </div>
                     <div class="card-footer">
